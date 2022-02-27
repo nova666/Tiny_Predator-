@@ -1,0 +1,12 @@
+
+C1 clean up code
+C2 Use OOP advance concepts such interfaces
+C3 Use delegates to register specific events;
+C4 Add Scrolling UI;
+C5 Add Paralex Effect to ground - background - cloud
+
+A1 scroling background rquired;
+A2 New trajectories required -> current trajectory can be updated by changing  y and x during run time 
+A3 Require Moving water 2D - simple water;
+A4 require different background
+A5 Camera Should Zoom in and out depending on Avatar distance from the water
